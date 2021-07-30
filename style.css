@@ -295,3 +295,21 @@ h2 {
 .timer {
   font-weight: 600;
 }
+
+.pin-account {
+  display: float;
+  float: right;
+  font-size: 15px;
+  padding-left: 20px;
+  margin-right: 80px;
+}
+
+.pin-account p {
+  background-color: #ffaf0383;
+  border-radius: 5px;
+  padding: 0 10px;
+}
+
+.pin-account ol {
+  padding-left: 30px;
+}
